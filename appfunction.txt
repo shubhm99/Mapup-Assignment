@@ -1,0 +1,8 @@
+In this assignment, I have creted header, sider, content, footer with the help of Ant Design. To continue it I then added the Form which
+has a dropdown menu for three different countries. As we select any country from that form there is a card displayed which help us to 
+display the data of that particular country and even there is a map in the background of the form where it display the map of a particular
+country. 
+
+
+I am not able to attach all files because only redux has 5 files and google form is only allowing to upload maximum 5 files.
+So, i only attched the main files for the same. 

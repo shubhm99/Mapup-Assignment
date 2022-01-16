@@ -1,0 +1,16 @@
+  <Sider style={{background:'#92A9BD'}}>
+  <Menu
+        defaultSelectedKeys={['dash']} 
+        mode="inline">
+          <Menu.Item key='dash'>
+            Dashboard
+          </Menu.Item>
+          <SubMenu icon={<EnvironmentOutlined />} title="Countries">
+            <Menu.ItemGroup key='countries' title='Countries'>
+              <Menu.Item key='unitedstates'> United States </Menu.Item>
+              <Menu.Item key='unitedkingdom'> United Kingdom </Menu.Item>
+              <Menu.Item key='india'> India </Menu.Item>
+            </Menu.ItemGroup>
+          </SubMenu>
+        </Menu>
+    </Sider>
